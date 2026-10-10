@@ -1,4 +1,4 @@
-                                                                    # 👋 Hi, I'm Durga Prasad Polimera
+                      👋 Hi, I'm Durga Prasad Polimera
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaprasad-polimera-458a5b182/)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durgaprasadpolimera@gmail.com)
 ### Senior DevOps & Cloud Engineer | AWS | Azure | Cloud Automation
